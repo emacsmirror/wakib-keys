@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://user-images.githubusercontent.com/2610287/236253542-ab75c56d-0bbc-457a-8587-d5d2c78d0eb3.svg" height="128"><br>Wakib Keys</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/darkstego/wakib-project/refs/heads/main/assets/wakib-logo.svg" width="250" alt="Wakib Logo"><br>Wakib Keys</h2>
 
 <p align="center">
   <a href="https://github.com/darkstego/wakib-keys/actions/workflows/ci.yml"><img src="https://github.com/darkstego/wakib-keys/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
